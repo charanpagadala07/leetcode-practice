@@ -1,8 +1,7 @@
 import java.util.HashSet;
-import java.util.Set;
 class Solution {
     public boolean isHappy(int n) {
-        Set<Integer> seen = new HashSet<>();
+        HashSet<Integer> seen = new HashSet<>();
         while(n!=1&&!seen.contains(n)){
             seen.add(n);
             int sum = 0;
