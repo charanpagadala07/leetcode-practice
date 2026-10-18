@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/charanpagadala07/leetcode-practice/tree/main/0283-move-zeroes/) | Easy |
+| [0455-assign-cookies](https://github.com/charanpagadala07/leetcode-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/charanpagadala07/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0455-assign-cookies](https://github.com/charanpagadala07/leetcode-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -55,6 +57,7 @@
 | [0202-happy-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/charanpagadala07/leetcode-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/charanpagadala07/leetcode-practice/tree/main/0392-is-subsequence/) | Easy |
+| [0455-assign-cookies](https://github.com/charanpagadala07/leetcode-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/charanpagadala07/leetcode-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -70,6 +73,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/charanpagadala07/leetcode-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -84,4 +88,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/charanpagadala07/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/charanpagadala07/leetcode-practice/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
