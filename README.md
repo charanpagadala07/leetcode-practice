@@ -32,6 +32,7 @@
 | [0680-valid-palindrome-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/charanpagadala07/leetcode-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/charanpagadala07/leetcode-practice/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/charanpagadala07/leetcode-practice/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@
 | [0844-backspace-string-compare](https://github.com/charanpagadala07/leetcode-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/charanpagadala07/leetcode-practice/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/charanpagadala07/leetcode-practice/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
