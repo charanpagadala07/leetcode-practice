@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/charanpagadala07/leetcode-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/charanpagadala07/leetcode-practice/tree/main/0455-assign-cookies/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -94,4 +95,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/charanpagadala07/leetcode-practice/tree/main/0455-assign-cookies/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
