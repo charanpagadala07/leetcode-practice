@@ -99,4 +99,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/charanpagadala07/leetcode-practice/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/charanpagadala07/leetcode-practice/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
