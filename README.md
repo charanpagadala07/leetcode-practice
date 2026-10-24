@@ -37,6 +37,7 @@
 | [0680-valid-palindrome-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/charanpagadala07/leetcode-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/charanpagadala07/leetcode-practice/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2409-count-days-spent-together](https://github.com/charanpagadala07/leetcode-practice/tree/main/2409-count-days-spent-together/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/charanpagadala07/leetcode-practice/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0202-happy-number/) | Easy |
+| [2409-count-days-spent-together](https://github.com/charanpagadala07/leetcode-practice/tree/main/2409-count-days-spent-together/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
