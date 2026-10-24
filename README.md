@@ -12,6 +12,7 @@
 | [0283-move-zeroes](https://github.com/charanpagadala07/leetcode-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/charanpagadala07/leetcode-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/charanpagadala07/leetcode-practice/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/charanpagadala07/leetcode-practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/charanpagadala07/leetcode-practice/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -123,4 +124,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/charanpagadala07/leetcode-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/charanpagadala07/leetcode-practice/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/charanpagadala07/leetcode-practice/tree/main/0206-reverse-linked-list/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/charanpagadala07/leetcode-practice/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 <!---LeetCode Topics End-->
