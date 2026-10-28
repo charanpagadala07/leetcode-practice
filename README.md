@@ -17,12 +17,14 @@
 | [1254-number-of-closed-islands](https://github.com/charanpagadala07/leetcode-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charanpagadala07/leetcode-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/charanpagadala07/leetcode-practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/charanpagadala07/leetcode-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/charanpagadala07/leetcode-practice/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0136-single-number/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/charanpagadala07/leetcode-practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/charanpagadala07/leetcode-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +55,7 @@
 | [0118-pascals-triangle](https://github.com/charanpagadala07/leetcode-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charanpagadala07/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/charanpagadala07/leetcode-practice/tree/main/0392-is-subsequence/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/charanpagadala07/leetcode-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,4 +153,5 @@
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/charanpagadala07/leetcode-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charanpagadala07/leetcode-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/charanpagadala07/leetcode-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
