@@ -16,6 +16,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/charanpagadala07/leetcode-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charanpagadala07/leetcode-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/charanpagadala07/leetcode-practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/charanpagadala07/leetcode-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/charanpagadala07/leetcode-practice/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -62,6 +63,7 @@
 | [0049-group-anagrams](https://github.com/charanpagadala07/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0455-assign-cookies](https://github.com/charanpagadala07/leetcode-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +79,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/charanpagadala07/leetcode-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/charanpagadala07/leetcode-practice/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/charanpagadala07/leetcode-practice/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -91,6 +94,7 @@
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/charanpagadala07/leetcode-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/charanpagadala07/leetcode-practice/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
