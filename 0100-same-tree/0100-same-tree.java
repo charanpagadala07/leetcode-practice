@@ -20,19 +20,19 @@ class Solution {
         queue.offer(p);
         queue.offer(q);
 
-        while(!queue.isEmpty()){
+        while (!queue.isEmpty()) {
             TreeNode a = queue.poll();
             TreeNode b = queue.poll();
 
-            if(a==null&&b==null){
+            if (a == null && b == null) {
                 continue;
             }
 
-            if(a==null||b==null){
+            if (a == null || b == null) {
                 return false;
             }
 
-            if(a.val!=b.val){
+            if (a.val != b.val) {
                 return false;
             }
 
