@@ -144,6 +144,7 @@
 | [0100-same-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/charanpagadala07/leetcode-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charanpagadala07/leetcode-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
@@ -152,6 +153,7 @@
 | [0100-same-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/charanpagadala07/leetcode-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charanpagadala07/leetcode-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
@@ -171,10 +173,12 @@
 | [0100-same-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
