@@ -31,6 +31,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/charanpagadala07/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/charanpagadala07/leetcode-practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/charanpagadala07/leetcode-practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0202-happy-number/) | Easy |
 | [0383-ransom-note](https://github.com/charanpagadala07/leetcode-practice/tree/main/0383-ransom-note/) | Easy |
 ## String
@@ -69,6 +70,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/charanpagadala07/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0141-linked-list-cycle](https://github.com/charanpagadala07/leetcode-practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/charanpagadala07/leetcode-practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/charanpagadala07/leetcode-practice/tree/main/0283-move-zeroes/) | Easy |
@@ -124,6 +126,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/charanpagadala07/leetcode-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/charanpagadala07/leetcode-practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/charanpagadala07/leetcode-practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/charanpagadala07/leetcode-practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/charanpagadala07/leetcode-practice/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/charanpagadala07/leetcode-practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/charanpagadala07/leetcode-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
