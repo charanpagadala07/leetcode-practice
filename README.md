@@ -149,6 +149,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/charanpagadala07/leetcode-practice/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/charanpagadala07/leetcode-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charanpagadala07/leetcode-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
@@ -180,6 +181,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/charanpagadala07/leetcode-practice/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,4 +190,13 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/charanpagadala07/leetcode-practice/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
