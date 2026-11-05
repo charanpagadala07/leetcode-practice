@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/charanpagadala07/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0118-pascals-triangle](https://github.com/charanpagadala07/leetcode-practice/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charanpagadala07/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0189-rotate-array/) | Medium |
@@ -56,6 +57,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/charanpagadala07/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0118-pascals-triangle](https://github.com/charanpagadala07/leetcode-practice/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charanpagadala07/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/charanpagadala07/leetcode-practice/tree/main/0392-is-subsequence/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/charanpagadala07/leetcode-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
