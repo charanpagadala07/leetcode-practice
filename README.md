@@ -39,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/charanpagadala07/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/charanpagadala07/leetcode-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/charanpagadala07/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0257-binary-tree-paths](https://github.com/charanpagadala07/leetcode-practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0383-ransom-note](https://github.com/charanpagadala07/leetcode-practice/tree/main/0383-ransom-note/) | Easy |
@@ -56,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/charanpagadala07/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/charanpagadala07/leetcode-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0118-pascals-triangle](https://github.com/charanpagadala07/leetcode-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charanpagadala07/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -208,5 +210,10 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/charanpagadala07/leetcode-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/charanpagadala07/leetcode-practice/tree/main/0257-binary-tree-paths/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/charanpagadala07/leetcode-practice/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
