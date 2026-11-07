@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/charanpagadala07/leetcode-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/charanpagadala07/leetcode-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/charanpagadala07/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0118-pascals-triangle](https://github.com/charanpagadala07/leetcode-practice/tree/main/0118-pascals-triangle/) | Easy |
@@ -79,6 +80,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/charanpagadala07/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/charanpagadala07/leetcode-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/charanpagadala07/leetcode-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/charanpagadala07/leetcode-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/charanpagadala07/leetcode-practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -107,6 +109,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/charanpagadala07/leetcode-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/charanpagadala07/leetcode-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
