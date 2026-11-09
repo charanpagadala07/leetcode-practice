@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/charanpagadala07/leetcode-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/charanpagadala07/leetcode-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/charanpagadala07/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/charanpagadala07/leetcode-practice/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/charanpagadala07/leetcode-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charanpagadala07/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -73,6 +74,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/charanpagadala07/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/charanpagadala07/leetcode-practice/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/charanpagadala07/leetcode-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -83,6 +85,7 @@
 | [0011-container-with-most-water](https://github.com/charanpagadala07/leetcode-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/charanpagadala07/leetcode-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/charanpagadala07/leetcode-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/charanpagadala07/leetcode-practice/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/charanpagadala07/leetcode-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/charanpagadala07/leetcode-practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0189-rotate-array/) | Medium |
@@ -132,6 +135,7 @@
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/charanpagadala07/leetcode-practice/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/charanpagadala07/leetcode-practice/tree/main/0455-assign-cookies/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -238,4 +242,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/charanpagadala07/leetcode-practice/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/charanpagadala07/leetcode-practice/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
