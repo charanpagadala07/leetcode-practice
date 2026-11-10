@@ -120,6 +120,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/charanpagadala07/leetcode-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0202-happy-number/) | Easy |
 | [2409-count-days-spent-together](https://github.com/charanpagadala07/leetcode-practice/tree/main/2409-count-days-spent-together/) | Easy |
@@ -144,6 +145,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/charanpagadala07/leetcode-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/charanpagadala07/leetcode-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/charanpagadala07/leetcode-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/charanpagadala07/leetcode-practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
@@ -155,6 +157,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/charanpagadala07/leetcode-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/charanpagadala07/leetcode-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/charanpagadala07/leetcode-practice/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/charanpagadala07/leetcode-practice/tree/main/0206-reverse-linked-list/) | Easy |
