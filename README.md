@@ -19,6 +19,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/charanpagadala07/leetcode-practice/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/charanpagadala07/leetcode-practice/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/charanpagadala07/leetcode-practice/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charanpagadala07/leetcode-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/charanpagadala07/leetcode-practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -28,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0136-single-number/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/charanpagadala07/leetcode-practice/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/charanpagadala07/leetcode-practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/charanpagadala07/leetcode-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
@@ -123,6 +125,7 @@
 | [0002-add-two-numbers](https://github.com/charanpagadala07/leetcode-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0202-happy-number/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/charanpagadala07/leetcode-practice/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2409-count-days-spent-together](https://github.com/charanpagadala07/leetcode-practice/tree/main/2409-count-days-spent-together/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -232,6 +235,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/charanpagadala07/leetcode-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/charanpagadala07/leetcode-practice/tree/main/0257-binary-tree-paths/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/charanpagadala07/leetcode-practice/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/charanpagadala07/leetcode-practice/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -244,9 +248,14 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/charanpagadala07/leetcode-practice/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/charanpagadala07/leetcode-practice/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/charanpagadala07/leetcode-practice/tree/main/0075-sort-colors/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/charanpagadala07/leetcode-practice/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
