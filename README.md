@@ -20,6 +20,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/charanpagadala07/leetcode-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/charanpagadala07/leetcode-practice/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/charanpagadala07/leetcode-practice/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charanpagadala07/leetcode-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/charanpagadala07/leetcode-practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
