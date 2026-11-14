@@ -21,6 +21,7 @@
 | [1254-number-of-closed-islands](https://github.com/charanpagadala07/leetcode-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/charanpagadala07/leetcode-practice/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/charanpagadala07/leetcode-practice/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/charanpagadala07/leetcode-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charanpagadala07/leetcode-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/charanpagadala07/leetcode-practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -149,6 +150,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/charanpagadala07/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/charanpagadala07/leetcode-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,4 +264,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/charanpagadala07/leetcode-practice/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/charanpagadala07/leetcode-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
