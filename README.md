@@ -60,6 +60,7 @@
 | [2014-longest-subsequence-repeated-k-times](https://github.com/charanpagadala07/leetcode-practice/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 | [2409-count-days-spent-together](https://github.com/charanpagadala07/leetcode-practice/tree/main/2409-count-days-spent-together/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/charanpagadala07/leetcode-practice/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
+| [4106-find-mismatched-segments-between-two-strings](https://github.com/charanpagadala07/leetcode-practice/tree/main/4106-find-mismatched-segments-between-two-strings/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
