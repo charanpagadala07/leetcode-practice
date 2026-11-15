@@ -27,6 +27,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/charanpagadala07/leetcode-practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/charanpagadala07/leetcode-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/charanpagadala07/leetcode-practice/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [4107-count-valid-suffix-sorts-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/4107-count-valid-suffix-sorts-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@
 | [0202-happy-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0202-happy-number/) | Easy |
 | [0383-ransom-note](https://github.com/charanpagadala07/leetcode-practice/tree/main/0383-ransom-note/) | Easy |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/charanpagadala07/leetcode-practice/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
+| [4107-count-valid-suffix-sorts-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/4107-count-valid-suffix-sorts-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +68,7 @@
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/charanpagadala07/leetcode-practice/tree/main/0383-ransom-note/) | Easy |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/charanpagadala07/leetcode-practice/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
+| [4107-count-valid-suffix-sorts-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/4107-count-valid-suffix-sorts-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
