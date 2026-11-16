@@ -79,6 +79,7 @@
 | [0119-pascals-triangle-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charanpagadala07/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/charanpagadala07/leetcode-practice/tree/main/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/charanpagadala07/leetcode-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -133,6 +134,7 @@
 | [0002-add-two-numbers](https://github.com/charanpagadala07/leetcode-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0202-happy-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/charanpagadala07/leetcode-practice/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2409-count-days-spent-together](https://github.com/charanpagadala07/leetcode-practice/tree/main/2409-count-days-spent-together/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -174,6 +176,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/charanpagadala07/leetcode-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/charanpagadala07/leetcode-practice/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/charanpagadala07/leetcode-practice/tree/main/0206-reverse-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,4 +275,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/charanpagadala07/leetcode-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
