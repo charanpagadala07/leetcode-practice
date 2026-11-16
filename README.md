@@ -58,6 +58,7 @@
 | [0392-is-subsequence](https://github.com/charanpagadala07/leetcode-practice/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/charanpagadala07/leetcode-practice/tree/main/0844-backspace-string-compare/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/charanpagadala07/leetcode-practice/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/charanpagadala07/leetcode-practice/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/charanpagadala07/leetcode-practice/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 | [2409-count-days-spent-together](https://github.com/charanpagadala07/leetcode-practice/tree/main/2409-count-days-spent-together/) | Easy |
@@ -80,6 +81,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charanpagadala07/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/charanpagadala07/leetcode-practice/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/charanpagadala07/leetcode-practice/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/charanpagadala07/leetcode-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -239,6 +241,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/charanpagadala07/leetcode-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/charanpagadala07/leetcode-practice/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
