@@ -11,6 +11,7 @@
 | [0118-pascals-triangle](https://github.com/charanpagadala07/leetcode-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charanpagadala07/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/charanpagadala07/leetcode-practice/tree/main/0283-move-zeroes/) | Easy |
@@ -79,6 +80,7 @@
 | [0118-pascals-triangle](https://github.com/charanpagadala07/leetcode-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charanpagadala07/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/charanpagadala07/leetcode-practice/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/charanpagadala07/leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/charanpagadala07/leetcode-practice/tree/main/1668-maximum-repeating-substring/) | Easy |
@@ -127,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/charanpagadala07/leetcode-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/charanpagadala07/leetcode-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
