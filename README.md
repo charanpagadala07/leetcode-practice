@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/charanpagadala07/leetcode-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/charanpagadala07/leetcode-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/charanpagadala07/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/charanpagadala07/leetcode-practice/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/charanpagadala07/leetcode-practice/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/charanpagadala07/leetcode-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -77,6 +78,7 @@
 | [0005-longest-palindromic-substring](https://github.com/charanpagadala07/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/charanpagadala07/leetcode-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/charanpagadala07/leetcode-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/charanpagadala07/leetcode-practice/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/charanpagadala07/leetcode-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charanpagadala07/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -129,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/charanpagadala07/leetcode-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/charanpagadala07/leetcode-practice/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/charanpagadala07/leetcode-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/charanpagadala07/leetcode-practice/tree/main/0680-valid-palindrome-ii/) | Easy |
