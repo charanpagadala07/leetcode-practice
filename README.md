@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/charanpagadala07/leetcode-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/charanpagadala07/leetcode-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/charanpagadala07/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/charanpagadala07/leetcode-practice/tree/main/0055-jump-game/) | Medium |
@@ -191,6 +192,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/charanpagadala07/leetcode-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/charanpagadala07/leetcode-practice/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Depth-First Search
