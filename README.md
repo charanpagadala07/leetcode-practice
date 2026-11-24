@@ -300,4 +300,5 @@
 | [0176-second-highest-salary](https://github.com/charanpagadala07/leetcode-practice/tree/main/0176-second-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/charanpagadala07/leetcode-practice/tree/main/0178-rank-scores/) | Medium |
 | [0182-duplicate-emails](https://github.com/charanpagadala07/leetcode-practice/tree/main/0182-duplicate-emails/) | Easy |
+| [0184-department-highest-salary](https://github.com/charanpagadala07/leetcode-practice/tree/main/0184-department-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
