@@ -302,5 +302,6 @@
 | [0182-duplicate-emails](https://github.com/charanpagadala07/leetcode-practice/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/charanpagadala07/leetcode-practice/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/charanpagadala07/leetcode-practice/tree/main/0184-department-highest-salary/) | Medium |
+| [0196-delete-duplicate-emails](https://github.com/charanpagadala07/leetcode-practice/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/0511-game-play-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
