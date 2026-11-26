@@ -304,4 +304,5 @@
 | [0184-department-highest-salary](https://github.com/charanpagadala07/leetcode-practice/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/charanpagadala07/leetcode-practice/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/charanpagadala07/leetcode-practice/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0577-employee-bonus](https://github.com/charanpagadala07/leetcode-practice/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
